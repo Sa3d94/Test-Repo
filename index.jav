@@ -1,7 +1,8 @@
 // This is an empty FIle
 
 public class Test {
-  public Test() {
-
+    private int _x;
+  public Test(int x) {
+   this._x = x;
     }
 }
