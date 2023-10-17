@@ -5,4 +5,8 @@ public class Test {
   public Test(int x) {
    this._x = x;
     }
+
+    private void Test () {
+      
+        }
 }
