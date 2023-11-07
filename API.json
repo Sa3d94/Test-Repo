@@ -1,0 +1,96 @@
+{
+    "id": 685524,
+    "url": "https://dev.azure.com/truedef/CC/_apis/test/Plans/401905/Suites/402581/Points/685524",
+    "assignedTo": {
+    "displayName": "Mahmoud Elsaied",
+    "url": "https://spsprodeus23.vssps.visualstudio.com/A1af3a518-e02a-420f-91f3-ac7070fe88cd/_apis/Identities/1ac20a80-999d-4a4f-b0a9-1fbc4d391dca",
+    "_links": {
+    "avatar": {
+    "href": "https://dev.azure.com/truedef/_apis/GraphProfile/MemberAvatars/aad.YjAyODFkNjMtZGRjNC03OTkzLWFhMzAtOTYwNGIxYjUwMjM0"
+    }
+    },
+    "id": "1ac20a80-999d-4a4f-b0a9-1fbc4d391dca",
+    "uniqueName": "ACTBPZZ@mmm.com",
+    "imageUrl": "https://dev.azure.com/truedef/_apis/GraphProfile/MemberAvatars/aad.YjAyODFkNjMtZGRjNC03OTkzLWFhMzAtOTYwNGIxYjUwMjM0",
+    "descriptor": "aad.YjAyODFkNjMtZGRjNC03OTkzLWFhMzAtOTYwNGIxYjUwMjM0"
+    },
+    "automated": true,
+    "configuration": {
+    "id": "113",
+    "name": "Browser Chrome"
+    },
+    "failureType": "None",
+    "lastTestRun": {
+    "id": "0"
+    },
+    "lastResult": {
+    "id": "0"
+    },
+    "lastUpdatedDate": "2023-09-18T18:47:50.92Z",
+    "lastResetToActive": "1900-01-01T00:00:00Z",
+    "lastUpdatedBy": {
+    "displayName": "Azure Pipelines Test Service",
+    "url": "https://spsprodeus23.vssps.visualstudio.com/A1af3a518-e02a-420f-91f3-ac7070fe88cd/_apis/Identities/00000054-0000-8888-8000-000000000000",
+    "_links": {
+    "avatar": {
+    "href": "https://dev.azure.com/truedef/_apis/GraphProfile/MemberAvatars/s2s.MDAwMDAwNTQtMDAwMC04ODg4LTgwMDAtMDAwMDAwMDAwMDAwQDJjODk1OTA4LTA0ZTAtNDk1Mi04OWZkLTU0YjAwNDZkNjI4OA"
+    }
+    },
+    "id": "00000054-0000-8888-8000-000000000000",
+    "uniqueName": "00000054-0000-8888-8000-000000000000@2c895908-04e0-4952-89fd-54b0046d6288",
+    "imageUrl": "https://dev.azure.com/truedef/_apis/GraphProfile/MemberAvatars/s2s.MDAwMDAwNTQtMDAwMC04ODg4LTgwMDAtMDAwMDAwMDAwMDAwQDJjODk1OTA4LTA0ZTAtNDk1Mi04OWZkLTU0YjAwNDZkNjI4OA",
+    "descriptor": "s2s.MDAwMDAwNTQtMDAwMC04ODg4LTgwMDAtMDAwMDAwMDAwMDAwQDJjODk1OTA4LTA0ZTAtNDk1Mi04OWZkLTU0YjAwNDZkNjI4OA"
+    },
+    "outcome": "Unspecified",
+    "revision": 1,
+    "state": "Ready",
+    "lastResultState": "Unspecified",
+    "suite": {
+    "id": "402581",
+    "name": "Case 8b",
+    "url": "https://dev.azure.com/truedef/CC/_apis/test/Plans/401905/Suites/402581"
+    },
+    "testCase": {
+    "id": "400892",
+    "name": "Change Tx - Case 8b - Original Upper No Tx + Lower DBT - Current Stages Upper No Tx + Lower DBT - Continue with Both Flex",
+    "url": "https://dev.azure.com/truedef/_apis/wit/workItems/400892",
+    "webUrl": "https://dev.azure.com/truedef/web/wi.aspx?pcguid=00036ee5-a95f-424c-81f5-e79d8973b01d&id=400892"
+    },
+    "testPlan": {
+    "id": "401905",
+    "name": "OCP - R25 Formal",
+    "url": "https://dev.azure.com/truedef/CC/_apis/test/Plans/401905"
+    },
+    "workItemProperties": [
+    {
+    "workItem": {
+    "key": "Microsoft.VSTS.TCM.AutomationStatus",
+    "value": "Automated"
+    }
+    },
+    {
+    "workItem": {
+    "key": "Microsoft.VSTS.TCM.AutomatedTestName",
+    "value": "OcpAutomation.TestWrappers.Refinement_Wizard.ChangeTreatment.ChangeTxToAlignerSliceOne.ChangeTx_Case8b_OriginalUpperNoTxLowerDBTTestWrapper.ChangeTx_Case8b_CurrentStagesUpperNoTxLowerDBT_ContinueWithBothFlex_Test"
+    }
+    },
+    {
+    "workItem": {
+    "key": "System.Title",
+    "value": "Change Tx - Case 8b - Original Upper No Tx + Lower DBT - Current Stages Upper No Tx + Lower DBT - Continue with Both Flex"
+    }
+    },
+    {
+    "workItem": {
+    "key": "System.AssignedTo",
+    "value": "Sara Saleh <ADQCCZZ@mmm.com>"
+    }
+    },
+    {
+    "workItem": {
+    "key": "System.State",
+    "value": "Ready"
+    }
+    }
+    ]
+    }
