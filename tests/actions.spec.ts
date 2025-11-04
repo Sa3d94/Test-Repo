@@ -160,6 +160,6 @@ test('click', async({page})=> {
     let topframechilds = topframe?.childFrames() || [];
     let middleframe= topframechilds[1];
     await expect (middleframe.locator('[id="content"]')).toHaveText('MIDDLE');
-   // await page.pause();
+   
     await page.close();
   })
