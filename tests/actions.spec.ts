@@ -121,7 +121,7 @@ test('click', async({page})=> {
    // await page.pause();
     await page.close();
   })
-  test.only('okpromptalert', async({page})=> {
+  test('okpromptalert', async({page})=> {
     await page.goto('https://the-internet.herokuapp.com/javascript_alerts');
     
     page.on("dialog", async(alert)=>{
@@ -135,7 +135,7 @@ test('click', async({page})=> {
    // await page.pause();
     await page.close();
   })
-  test.only('cancelpromptalert', async({page})=> {
+  test('cancelpromptalert', async({page})=> {
     await page.goto('https://the-internet.herokuapp.com/javascript_alerts');
     
     page.on("dialog", async(alert)=>{
